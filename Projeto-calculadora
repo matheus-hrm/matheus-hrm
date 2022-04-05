@@ -7,8 +7,7 @@ int main(){
        
     scanf("%lf%c%lf",&x,&operador,&y);// le dois valores e um caractere
     
-    switch (operador)
-    {
+    switch (operador){
     case '+':
         printf("%lf",x+y);// realiza adição
         break;
