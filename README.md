@@ -1,5 +1,5 @@
 <h2>
-        👋 Oi, meu nome é Matheus Henrique Rodrigues Magalhães
+        👋 Oi, meu nome é Matheus Henrique 
 </h2>
 <h4>
 - 👀 Atualmente estou aprendendo C, JavaScript, HTML5 e CSS
