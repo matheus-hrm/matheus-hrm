@@ -2,8 +2,8 @@
         👋 Oi, meu nome é Matheus Henrique 
 </h2>
 <h4>
-- 👀 Atualmente estou aprendendo C, JavaScript, HTML5 e CSS<br>
-- Estudo Ciências da Computação na UFG, tenho 19 anos e gosto muito de programação!
+- 👀 Atualmente estou aprendendo C, JavaScript, Typescript, Python e Java<br>
+- Estudo Ciências da Computação na UFG, tenho 20 anos e gosto muito de programação!
 </h4>
 <div align="center">
  
