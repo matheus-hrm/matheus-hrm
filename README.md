@@ -10,8 +10,8 @@
         
 <div align="center">
   <a href="https://github.com/matheus-hrm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-hrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hrm&layout=compact&langs_count=7&theme=tokyonight">
+  [![wakatime](https://wakatime.com/badge/user/c1054241-c005-4f30-bee2-f1689db4f8f4.svg)](https://wakatime.com/@c1054241-c005-4f30-bee2-f1689db4f8f4)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hrm&layout=compact&langs_count=8&theme=tokyonight&hide_progress=true">
 </div>
   <div align="center" style="display: inline_block"><br>
   
