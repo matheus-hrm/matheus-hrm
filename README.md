@@ -11,7 +11,6 @@
         <img src="static/java.svg" alt="Java" width="50">
         <img src="static/python.svg" alt="Python" width="50">
         <img src="static/git.svg" alt="Git" width="50">
-        <img src="static/tailwind.svg" alt="Tailwindcss" width="50">
       </div>
     </p>
     <div>
