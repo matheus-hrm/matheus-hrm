@@ -4,7 +4,7 @@
       Computer Science student, 20 years old, Brazil
     </p>
     <p>
-      Currently learning these techs
+      Currently learning these techonlogies:
       <div>
         <img src="static/c++.svg" alt="C++" width="50">
         <img src="static/typescript.svg" alt="TypeScript" width="50">
@@ -13,6 +13,7 @@
         <img src="static/python.svg" alt="Python" width="50">
         <img src="static/git.svg" alt="Git" width="50">
       </div>
+      I'm also learning web frameworks like Django, Express, Fastify and Elysia
     </p>
     <div>
         <img src="static/giphy.gif" alt="cat" width="200">
