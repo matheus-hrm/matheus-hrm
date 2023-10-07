@@ -6,11 +6,11 @@
     <p>
       Currently learning these techs
       <div>
+        <img src="static/c++.svg" alt="C++" width="50">
         <img src="static/typescript.svg" alt="TypeScript" width="50">
         <img src="static/react-native.svg" alt="React Native" width="50">
         <img src="static/java.svg" alt="Java" width="50">
         <img src="static/python.svg" alt="Python" width="50">
-        <img src="static/c++.svg" alt="C++" width="50">
         <img src="static/git.svg" alt="Git" width="50">
       </div>
     </p>
