@@ -13,7 +13,7 @@
         <img src="static/python.svg" alt="Python" width="50">
         <img src="static/git.svg" alt="Git" width="50">
       </div>
-      I'm also learning web frameworks like Django on python, Express and Fastify on nodejs, and Elysia for bun
+      I'm also learning web frameworks like Django on Python, Express and Fastify on NodeJS, and Elysia for Bun
     </p>
     <div>
         <img src="static/giphy.gif" alt="cat" width="200">
