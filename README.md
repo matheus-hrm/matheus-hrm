@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; flex-direction: row">
   <div style="flex: 1;">
     <p>
-      Computer Science student, 20 years old, Brazil
+      Computer Science student at UFG, 20 years old, Brazil
     </p>
     <p>
       Currently learning these techonlogies:
