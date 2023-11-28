@@ -1,26 +1,27 @@
 <div style="display: flex; align-items: center; flex-direction: row">
   <div style="flex: 1;">
     <p>
-      Computer Science student at UFG, 20 years old, Brazil
+      i'm a 20 years old computer science student at UFG from Brazil!
     </p>
     <p>
-      Currently learning these techonlogies:
-      <div>
-        <img src="static/c++.svg" alt="C++" width="50">
-        <img src="static/typescript.svg" alt="TypeScript" width="50">
-        <img src="static/react-native.svg" alt="React Native" width="50">
-        <img src="static/java.svg" alt="Java" width="50">
-        <img src="static/python.svg" alt="Python" width="50">
-        <img src="static/git.svg" alt="Git" width="50">
-      </div>
-      I'm also learning web frameworks like Django on Python, Express and Fastify on NodeJS, and Elysia for Bun
+      technologies i'm learning:
     </p>
-    <div>
-        <img src="static/giphy.gif" alt="cat" width="200">
-      </div>
   </div>
-  
 </div>
+           
+![](https://skillicons.dev/icons?i=ts,c,go,py,java) ![My Skills](https://skillicons.dev/icons?i=prisma,next,react,nodejs,tailwind,postgres)
+        
+<div>
+  <p>
+    you can catch me up at:
+  </p>
+</div>
+
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheus-henrique-rodrigues-magalh%C3%A3es/) 
+[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/matheushr.m)
+
+
+<img src="static/giphy.gif" alt="cat" width="200">
 
 
 #
