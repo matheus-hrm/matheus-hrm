@@ -1,13 +1,12 @@
-<div style="display: flex; align-items: center; flex-direction: row">
-  <div style="flex: 1;">
-    <p>
+<div>
+    <h3>
       i'm a 20 years old computer science student at UFG from Brazil!
-    </p>
-    <p>
-      technologies i'm learning:
-    </p>
-  </div>
+    </h3>
 </div>
+
+<p>
+  technologies i'm learning:
+</p>
            
 ![](https://skillicons.dev/icons?i=ts,c,go,py,java) ![My Skills](https://skillicons.dev/icons?i=prisma,next,react,nodejs,tailwind,postgres)
         
@@ -22,6 +21,7 @@
 
 
 <img src="static/giphy.gif" alt="cat" width="200">
+
 
 
 #
