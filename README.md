@@ -13,7 +13,7 @@
 
 ### web stack
 [![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js Badge](https://img.shields.io/badge/nuxt.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### backend stack 
