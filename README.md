@@ -27,13 +27,14 @@
 ![WSL2 Badge](https://img.shields.io/badge/wsl2-0078D6?style=flat&logo=windows&logoColor=white)
 [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
-<p align="right">
-    my <a href='https://www.linkedin.com/in/matheus-henrique-rodrigues-magalh%C3%A3es'> linkedin</a> 
-    my <a href='https://www.instagram.com/matheushr.m'> instagram </a> 
-</p>
 
 ### learning !
 [![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 ![Lua Badge](https://img.shields.io/badge/lua-%23316192.svg?-style=flat&logo=lua&logoColor=white)
  
 #
+
+<p>
+    <a href='https://www.linkedin.com/in/matheus-henrique-rodrigues-magalh%C3%A3es'> linkedin</a> 
+    <a href='https://www.instagram.com/matheushr.m'> instagram </a> 
+</p>
