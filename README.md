@@ -31,6 +31,7 @@
 ### learning !
 [![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 ![Lua Badge](https://img.shields.io/badge/lua-%23316192.svg?-style=flat&logo=lua&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/rust-%23000000.svg?-style=flat&logo=rust&logoColor=white)
 #
 <p>
     <a href='https://www.linkedin.com/in/matheus-henrique-rodrigues-magalh%C3%A3es'> linkedin</a> 
