@@ -12,14 +12,21 @@
 
 
 ### web stack
-[![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React.js badge](https://img.shields.io/badge/react.js-black?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vue Badge](https://img.shields.io/badge/vue.js-black?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-black?style=flat&logo=tailwind-css&logoColor=06B6D4)](https://tailwindcss.com/)
 
 ### backend stack 
 [![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Fastify Badge](https://img.shields.io/badge/Fastify-white?style=flat&logo=fastify&logoColor=000000)]()
 [![Bun Badge](https://img.shields.io/badge/bun-%23000000.svg?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
+[![Prisma Badge](https://img.shields.io/badge/prisma-%23316192.svg?style=flat&logo=prisma&logoColor=2D3748)]()
+
+[![Django Badge](https://img.shields.io/badge/django-6DA55F?style=flat&logo=django&logoColor=092E20)]()
+[![FastApi Badge](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=009688)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 ### systems
 
