@@ -6,6 +6,7 @@ print(`I'm currently interested in fullstack development and i'm always learning
 ```
 
 [![wakatime](https://wakatime.com/badge/user/c1054241-c005-4f30-bee2-f1689db4f8f4.svg)](https://wakatime.com/@c1054241-c005-4f30-bee2-f1689db4f8f4)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
 
 ### stack
 ![C Badge](https://img.shields.io/badge/C-007AFF?-style=flat&logo=c&logoColor=white)
