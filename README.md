@@ -5,7 +5,7 @@ print("Hey, I'm {} years old and majoring in computer science at {}!".format(20,
 
 I'm currently interested in fullstack development but i'm always eager to learn new tools. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />       
 You can talk to me in english, portuguese, and i can take a chance on german :p. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" alt="Cloud with Rain" width="25" height="25" />   
-Topics that attract me are: Epistemology, Functional Programming, AGI, Accelerationism and deterritorialization <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+Topics that attract me are: Epistemology, Functional Programming, AGI and Accelerationism <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 <br>
 
