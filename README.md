@@ -34,5 +34,3 @@ Topics that attract me are: Epistemology, Functional Programming, AGI and Accele
 ![WSL2 Badge](https://img.shields.io/badge/wsl2-0078D6?style=flat&logo=windows&logoColor=white)
 [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url(https://github.com/matheus-hrm/matheus-hrm/blob/main/wallhaven-7pxxj9.jpg?raw=true); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
