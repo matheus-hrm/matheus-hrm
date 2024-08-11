@@ -1,36 +1,44 @@
+<p float="left">
+  <img src="https://github.com/matheus-hrm/matheus-hrm/blob/3b4e784651143f8f8c929b8608428ba577f3d4d4/leaf.jpg" width="400" align="left">
+</p>
 
-```python
-print("Hey, I'm {} years old and majoring in computer science at {}!".format(21, "UFG"))
-```
-
-I'm currently interested in fullstack development but i'm always eager to learn new tools. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />       
-You can talk to me in english, portuguese, and i can take a chance on german :p. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" alt="Cloud with Rain" width="25" height="25" />   
-Topics that attract me are: Epistemology, Functional Programming, AGI and Accelerationism <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-
-<br>
+### hey, im a 21 years old computer science student 
 
 [![wakatime](https://wakatime.com/badge/user/c1054241-c005-4f30-bee2-f1689db4f8f4.svg)](https://wakatime.com/@c1054241-c005-4f30-bee2-f1689db4f8f4)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
 
+---
+#### interests
+fullstack development, cybersecurity, functional programming, e/acc
+#### languages
+english, portuguese, german 
 
-### my tech stack 
-![C Badge](https://img.shields.io/badge/C-007AFF?-style=flat&logo=c&logoColor=white)
-[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vue Badge](https://img.shields.io/badge/vue.js-black?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+#### my stack 
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Prisma Badge](https://img.shields.io/badge/prisma-%23316192.svg?style=flat&logo=prisma&logoColor=2D3748)]()
-![Python Badge](https://img.shields.io/badge/python-6DA55F?style=flat&logo=python&logoColor=white)
+[![Vue Badge](https://img.shields.io/badge/vue.js-black?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/django-6DA55F?style=flat&logo=django&logoColor=092E20)]()
-[![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)]()
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-### learning these !
-[![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
-![Lua Badge](https://img.shields.io/badge/lua-%23316192.svg?-style=flat&logo=lua&logoColor=white)
+#### learning
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![Rust Badge](https://img.shields.io/badge/rust-%23000000.svg?-style=flat&logo=rust&logoColor=white)
+[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
-### tools and systems 
+#### tooling 
 
-[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
-![WSL2 Badge](https://img.shields.io/badge/wsl2-0078D6?style=flat&logo=windows&logoColor=white)
-[![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
+##### thanks for reading :p
