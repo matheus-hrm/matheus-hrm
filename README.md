@@ -41,4 +41,4 @@ english, portuguese, german
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
-##### thanks for reading :p
+#### hmu !!!
