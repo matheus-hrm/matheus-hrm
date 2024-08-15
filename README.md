@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://github.com/matheus-hrm/matheus-hrm/blob/d47a3e20117903a00bb11d0069be00346530eff3/rain.jpg" width="450" align="left">
+  <img src="https://github.com/matheus-hrm/matheus-hrm/blob/d47a3e20117903a00bb11d0069be00346530eff3/rain.jpg" width="400" align="left">
 </p>
 
 ### hey, im a 21 years old computer science student 
@@ -41,4 +41,3 @@ english, portuguese, german
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
-#### hmu !!!
