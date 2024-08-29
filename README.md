@@ -9,9 +9,11 @@
 
 ---
 #### interests
-fullstack development, cybersecurity, functional programming, e/acc
+
+<h5> fullstack development, cybersecurity, functional programming, e/acc </h5>
+
 #### languages
-english, portuguese, german 
+<h5>english, portuguese, german</h5>
 
 #### my stack 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -28,10 +30,11 @@ english, portuguese, german
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 #### learning
-[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
-![Rust Badge](https://img.shields.io/badge/rust-%23000000.svg?-style=flat&logo=rust&logoColor=white)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
 [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)
+![Rust Badge](https://img.shields.io/badge/rust-%23000000.svg?-style=flat&logo=rust&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
 #### tooling 
