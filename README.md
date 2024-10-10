@@ -1,6 +1,8 @@
+<!--
 <p float="left">
   <img src="https://github.com/matheus-hrm/matheus-hrm/blob/d47a3e20117903a00bb11d0069be00346530eff3/leaf.jpg" width="400" align="left">
 </p>
+-->
 
 ### hey, im a 21 years old computer science student 
 
