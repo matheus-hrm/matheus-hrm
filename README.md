@@ -8,7 +8,7 @@
 ##### i am interested in fullstack development, cybersecurity and functional programming 
 ##### i speak english, portuguese and i'm learning german
 ---
-##### stack: typescript, python, go, mysql, postgres, docker, nix 
+##### stack: typescript, python, go, postgres, mongodb, docker, nix 
 ##### frameworks: next.js, django, spring
 ##### tools: nixOS, Ubuntu, neovim
-##### learning haskell, bash, elixir
+##### learning rust, java, and elixir
