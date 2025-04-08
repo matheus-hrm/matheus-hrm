@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://i.pinimg.com/736x/60/50/91/605091be24df6f75b42f0272ae409082.jpg" width="400" align="left">
+  <img src="https://i.pinimg.com/736x/c8/fd/0d/c8fd0d81e2db2583e1e3c79b7d66c050.jpg" width="400" align="left">
 </p>
 
 #### hey, i'm a 21 years old computer science student 
