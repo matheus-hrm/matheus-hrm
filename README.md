@@ -6,10 +6,5 @@
 ##### i'm interested in fullstack and functional programming 
 ##### i speak english, portuguese and i'm learning german
 ---
-##### c, typescript, python, go, nix 
-##### next.js, fastify, fastapi, vue
-##### nixos, debian, vim, nginx, docker
----
 ##### currently learning pentesting and cybersecurity 
-##### some of my favourite artists are radiohead and yung lean
 ##### feel free to follow or hit me up, im always eager to learn and make new friends 
