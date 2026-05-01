@@ -1,0 +1,61 @@
+<svg width="620" height="36" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: monospace; fill: #8b949e; font-size: 13px; }
+    .result { fill: #ffffff; font-weight: bold; }
+    .detector { opacity: 0; }
+    .mask { fill: #0d1117; }
+
+    @supports (-moz-appearance: none) { .is-firefox { opacity: 1 !important; } }
+    @supports (zoom: 1) { .is-chrome { opacity: 1 !important; } }
+    @supports (hanging-punctuation: first) { .is-safari { opacity: 1 !important; } }
+    @media (forced-colors: active) { .is-win { opacity: 1 !important; } }
+    @supports (-webkit-backdrop-filter: blur(1px)) { .is-apple { opacity: 1 !important; } }
+    @media (max-width: 600px) { .is-mobile { opacity: 1 !important; } }
+    @media (min-width: 601px) { .is-desktop { opacity: 1 !important; } }
+  </style>
+
+  <text x="0" y="20">you are browsing from</text>
+
+  <!-- BROWSER -->
+  <text x="180" y="20">unknown</text>
+  <g class="detector is-chrome">
+    <rect x="170" y="4" width="70" height="18" class="mask"/>
+    <text x="180" y="20" class="result">chrome</text>
+  </g>
+  <g class="detector is-safari">
+    <rect x="170" y="4" width="70" height="18" class="mask"/>
+    <text x="180" y="20" class="result">safari</text>
+  </g>
+  <g class="detector is-firefox">
+    <rect x="170" y="4" width="70" height="18" class="mask"/>
+    <text x="180" y="20" class="result">firefox</text>
+  </g>
+
+  <text x="244" y="20">on</text>
+
+  <!-- SYSTEM -->
+  <text x="264" y="20" class="result">linux/other</text>
+  <g class="detector is-win">
+    <rect x="254" y="4" width="90" height="18" class="mask"/>
+    <text x="264" y="20" class="result">windows</text>
+  </g>
+  <g class="detector is-apple">
+    <rect x="254" y="4" width="90" height="18" class="mask"/>
+    <text x="264" y="20" class="result">macos/ios</text>
+  </g>
+
+  <text x="358" y="20">using a</text>
+
+  <!-- SCREEN -->
+  <text x="412" y="20">...</text>
+  <g class="detector is-mobile">
+    <rect x="402" y="4" width="70" height="18" class="mask"/>
+    <text x="412" y="20" class="result">mobile</text>
+  </g>
+  <g class="detector is-desktop">
+    <rect x="402" y="4" width="70" height="18" class="mask"/>
+    <text x="412" y="20" class="result">desktop</text>
+  </g>
+
+  <text x="480" y="20">device.</text>
+</svg>
