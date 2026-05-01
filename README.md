@@ -9,3 +9,5 @@
 ---
 ##### currently working with application security ( ssdlc, threat modelling, api security ) 
 
+
+<img src="/.../7r4ck1n6.svg" width="602" >
